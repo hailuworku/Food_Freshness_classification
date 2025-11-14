@@ -60,7 +60,7 @@ The matrix shows that the model performs exceptionally well, with very few miscl
 6. Model Prediction Examples
 Here are some examples of the model's predictions on new images.
 Correct Predictions
-  # image or screenshoot not upload
+  # image or screenshoot not upload#
   
 Incorrect Predictions
   # image or screenshoot not upload
